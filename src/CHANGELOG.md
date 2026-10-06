@@ -1,5 +1,11 @@
 # viem
 
+## 2.57.4
+
+### Patch Changes
+
+- [#5190](https://github.com/wevm/viem/pull/5190) [`2149aa18fc0363e702c81b95e0759c1f171eaace`](https://github.com/wevm/viem/commit/2149aa18fc0363e702c81b95e0759c1f171eaace) Thanks [@struong](https://github.com/struong)! - Added the current Tempo ZoneInbox ABI, selectors, and predeploy address for reading deposit outcomes.
+
 ## 2.57.3
 
 ### Patch Changes
